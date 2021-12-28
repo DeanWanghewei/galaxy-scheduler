@@ -9,6 +9,8 @@
     <version>0.0.1</version>
     <modules>
         <module>galaxy-scheduler-dao</module>
+        <module>galaxy-scheduler-work-plugin</module>
+        <module>galaxy-scheduler-datasource-factory</module>
     </modules>
 
     <dependencyManagement>
